@@ -15,5 +15,10 @@
 		"source": [
 			"https://raw.githubusercontent.com/muchenshou/booklibrary/master/jigongquanzhuan.lua"
 		]
+	}, {
+		"name": "传习录",
+		"source": [
+			"https://raw.githubusercontent.com/muchenshou/booklibrary/master/chuanxilu.lua"
+		]
 	}]
 }
