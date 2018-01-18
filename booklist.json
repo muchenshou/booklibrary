@@ -10,5 +10,10 @@
 		"source": [
 			"https://raw.githubusercontent.com/muchenshou/booklibrary/master/wuxinfashi.lua"
 		]
+	}, {
+		"name": "济公全传",
+		"source": [
+			"https://raw.githubusercontent.com/muchenshou/booklibrary/master/jigongquanzhuan.lua"
+		]
 	}]
 }
