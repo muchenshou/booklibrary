@@ -5,5 +5,10 @@
 		"source": [
 			"https://raw.githubusercontent.com/muchenshou/booklibrary/master/shengxu.lua"
 		]
+	}, {
+		"name": "无心法师",
+		"source": [
+			"https://raw.githubusercontent.com/muchenshou/booklibrary/master/wuxinfashi.lua"
+		]
 	}]
 }
