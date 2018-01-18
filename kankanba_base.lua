@@ -119,6 +119,7 @@ KanKanBa.fetchChapterContent = function (url)
         rawdata = string.gsub(rawdata, "\n+", "\n")
         rawdata = string.gsub(rawdata, "\n%s+", "\n")
         rawdata = string.gsub(rawdata, "^%s*(.-)%s*$", "%1")
+        rawdata = string.gsub(rawdata, "&.-;", "")
         content = content..rawdata
         print(content)
 
