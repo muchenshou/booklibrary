@@ -60,7 +60,12 @@ function List.isEmpty(list)
     return list.last < list.first
 end
 
-function fetchChapterList(url)
+KanKanBa = {}
+function KanKanBa.new() 
+	return {}
+end
+
+function KanKanBa.fetchChapterList(url)
 
     local dt_list = List.new()
     local error_return = {}
@@ -92,7 +97,7 @@ function fetchChapterList(url)
     return testList
 end
 
-function fetchChapterContent(url)
+function KanKanBa.fetchChapterContent(url)
     local fullUrl = "http://www.sbkk88.com"..url;
     local jsoupClass = luajava.bindClass("com.reader.app.module.jsoup.JsoupHelper")
     local content = ""
