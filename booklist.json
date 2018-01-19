@@ -20,5 +20,50 @@
 		"source": [
 			"https://raw.githubusercontent.com/muchenshou/booklibrary/master/chuanxilu.lua"
 		]
+	}, {
+		"name": "飞狐外传",
+		"source": ["https://raw.githubusercontent.com/muchenshou/booklibrary/master/feihuwaichuan.lua"]
+	}, {
+		"name": "雪山飞狐",
+		"source": ["https://raw.githubusercontent.com/muchenshou/booklibrary/master/xueshanfeihu.lua"]
+	}, {
+		"name": "连城诀",
+		"source": ["https://raw.githubusercontent.com/muchenshou/booklibrary/master/lianchengjue.lua"]
+	}, {
+		"name": "天龙八部",
+		"source": ["https://raw.githubusercontent.com/muchenshou/booklibrary/master/tianlongbabu.lua"]
+	}, {
+		"name": "射雕英雄传",
+		"source": ["https://raw.githubusercontent.com/muchenshou/booklibrary/master/shediaoyingxiongchuan.lua"]
+	}, {
+		"name": "白马啸西风",
+		"source": ["https://raw.githubusercontent.com/muchenshou/booklibrary/master/baimaxiaoxifeng.lua"]
+	}, {
+		"name": "鹿鼎记",
+		"source": ["https://raw.githubusercontent.com/muchenshou/booklibrary/master/ludingji.lua"]
+	}, {
+		"name": "笑傲江湖",
+		"source": ["https://raw.githubusercontent.com/muchenshou/booklibrary/master/xiaoaojianghu.lua"]
+	}, {
+		"name": "书剑恩仇录",
+		"source": ["https://raw.githubusercontent.com/muchenshou/booklibrary/master/shujianenchoulu.lua"]
+	}, {
+		"name": "神雕侠侣",
+		"source": ["https://raw.githubusercontent.com/muchenshou/booklibrary/master/shendiaoxialv.lua"]
+	}, {
+		"name": "侠客行",
+		"source": ["https://raw.githubusercontent.com/muchenshou/booklibrary/master/xiakexing.lua"]
+	}, {
+		"name": "倚天屠龙记",
+		"source": ["https://raw.githubusercontent.com/muchenshou/booklibrary/master/yitiantulongji.lua"]
+	}, {
+		"name": "碧血剑",
+		"source": ["https://raw.githubusercontent.com/muchenshou/booklibrary/master/bixiejian.lua"]
+	}, {
+		"name": "鸳鸯刀",
+		"source": ["https://raw.githubusercontent.com/muchenshou/booklibrary/master/yuanyangdao.lua"]
+	}, {
+		"name": "越女剑",
+		"source": ["https://raw.githubusercontent.com/muchenshou/booklibrary/master/yuenvjian.lua"]
 	}]
 }
